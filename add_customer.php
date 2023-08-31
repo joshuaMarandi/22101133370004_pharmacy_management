@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Add New Customer</title>
+    <title> New Customer</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 		<script src="bootstrap/js/jquery.min.js"></script>
 		<script src="bootstrap/js/bootstrap.min.js"></script>
@@ -14,6 +14,7 @@
     <script src="js/validateForm.js"></script>
     <script src="js/restrict.js"></script>
   </head>
+	
   <body>
     <!-- including side navigations -->
     <?php include("sections/sidenav.html"); ?>
@@ -23,7 +24,7 @@
         <?php
           require "php/header.php";
           createHeader('handshake', 'Add Customer', 'Add New Customer');
-          // header section end
+          //header section end
         ?>
         <div class="row">
           <div class="row col col-md-6">
