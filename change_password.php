@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+	  //start it
     <meta charset="utf-8">
     <title>Add New Customer</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
