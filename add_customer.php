@@ -14,8 +14,7 @@
     <link rel="stylesheet" href="css/home.css">
     <script src="js/validateForm.js"></script>
     <script src="js/restrict.js"></script>
-  </head>
-	
+  </head>	
   <body>
     <!-- including side navigations -->
     <?php include("sections/sidenav.html"); ?>
