@@ -28,6 +28,7 @@
           createHeader('handshake', 'Add Customer', 'Add New Customer');
           //header section end
         ?>
+
         <div class="row">
           <div class="row col col-md-6">
             <?php
