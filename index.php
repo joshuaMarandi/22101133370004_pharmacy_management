@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
+	  
     <meta charset="utf-8">
     <title>Pharmacy Management - Login</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
